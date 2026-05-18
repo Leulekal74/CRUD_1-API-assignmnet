@@ -1,8 +1,5 @@
-![Cafe Dashboard](lib/assets/dashboard.png)
+## 📊 Application Screenshots
 
-### 2. New Menu Registration & Update Form
-The dedicated form module used to input new coffee items or update recipe specifications with custom text validations.
-
-![Order Form Layout](lib/assets/create.png)
-
----
+| Main Dashboard View | Form Interaction View |
+|:---:|:---:|
+| <img src="https://raw.githubusercontent.com/Leulekal74/CRUD_1-API-assignmnet/main/lib/assets/dashboard.png" width="450"/> | <img src="https://raw.githubusercontent.com/Leulekal74/CRUD_1-API-assignmnet/main/lib/assets/create.png" width="450"/> |
